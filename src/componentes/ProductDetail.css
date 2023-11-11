@@ -1,0 +1,29 @@
+body{
+  background-color: aqua;
+  margin: 60px;
+  background-image: url(https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.product-detail {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid #a4a426;
+    border-radius: 5px;
+    text-align: left;
+    background-color: aquamarine;
+  }
+  
+  .product-detail h1 {
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  .product-detail p {
+    margin: 10px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
